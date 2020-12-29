@@ -17,3 +17,4 @@
             - baixar a  versão compatível: [https://downloads.apache.org//jmeter/binaries/apache-jmeter-5.4.zip](https://downloads.apache.org//jmeter/binaries/apache-jmeter-5.4.zip) ;
             - descompactar em qualquer diretório;
             - Executar o bat contido na pasta: ..\apache-jmeter-5.4\bin\jmeter.bat
+            - Abrir o arquivo de configuração do projeto: 
